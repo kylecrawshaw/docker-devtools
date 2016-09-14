@@ -1,2 +1,3 @@
 boto
+awscli
 ipython
